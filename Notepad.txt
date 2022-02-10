@@ -1,0 +1,28 @@
+### THIS VERSION WORKS!!! - MAP 10/24/2021
+
+controls = [elem.control for elem in self.controlAndProgramList]
+
+self.setFocus(self.controlAndProgramList[0].control)
+
+str(action.getId())
+
+str(control.getId()) or control.get()
+
+control = self.getControl(controlId)
+
+749: controls = [elem.control for elem in self.controlAndProgramList]
+
+755: elem.control.getId() for elem in self.controlAndProgramList
+
+
+for elem in self.controlAndProgramList:
+
+
+PROBLEM HERE???
+    def _getProgramFromControl(self, control):
+        for elem in self.controlAndProgramList:
+            if elem.control == control:
+                return elem.program
+        return None
+
+
