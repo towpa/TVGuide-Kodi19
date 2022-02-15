@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 # Need to install the following:
 # sudo -H pip3 install Kodistubs --upgrade --no-cache-dir
+# sudo -H pip3 install simplejson --upgrade --no-cache-dir
 #
-# python3 -m pip install Kodistubs --upgrade --no-cache-dir
+# python -m pip install Kodistubs --upgrade --no-cache-dir
+# python -m pip install simplejson --upgrade --no-cache-dir
 #
 #
 #      Copyright (C) 2013 Tommy Winther
