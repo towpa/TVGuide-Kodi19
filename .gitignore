@@ -1,5 +1,10 @@
-.end
+.gitignore
+
+*~
+*.pyo
+*.pyc
+
 Notepad.txt
-script.tvguide.code-workspace
 script.tvguide.zip
+script.tvguide/script.tvguide.code-workspace
 xml.sh
